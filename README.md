@@ -9,5 +9,9 @@ I started by exploring the fundamental concepts of programming in Swift and unde
 |Photo Frame|![1-PhotoFrame-Marcocrasi](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/2e1996cd-eda4-4451-9c5f-adf5ae190e31)|
 | Question Bot | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366 |
 | Bouncy Balll | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/fd0c86fe-f8cd-4104-8653-ce3751d1c9e4 |
-| | |
-| | |
+| Color Mix | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/6d9c5c93-ab29-480f-91d2-ec0a7ffd84fb |
+| Chat Bot | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d28a5e25-d0c9-45f2-9705-69ad25d417ae |
+| RPS |https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/44fa0ae4-a052-4d73-96f2-6a5232dbf77a |
+| Meme Maker | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/5ffceadf-a957-408e-9454-634410170566 |
+| Element Quiz | https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d09975cb-aa62-43b0-bca0-33f6202fef71 |
+ |---|---|
