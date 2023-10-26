@@ -6,25 +6,29 @@ I started by exploring the fundamental concepts of programming in Swift and unde
  
  ![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
 
-I added an image to my storyboard by dragging an "Image View" and assigning the desired image in the attributes panel. It's important to note that images should be added to the "Assets.xcassets" folder in the project first. To change the background color of the view, I selected the main view and adjusted the "Background" or "Background Color" property in the attributes panel. Then, I verified that the elements were correctly positioned with appropriate constraints. Finally, I saved the storyboard, ensuring that the image and background color matched the overall design of the application.
+Mis disculpas por la confusión. Aquí está el texto con comillas simples en lugar de comillas dobles:
+
+I added an image to my storyboard by dragging an `Image View` and assigning the desired image in the attributes panel. It's important to note that images should be added to the `Assets.xcassets` folder in the project first. To change the background color of the view, I selected the main view and adjusted the `Background` or `Background Color` property in the attributes panel. Then, I verified that the elements were correctly positioned with appropriate constraints. Finally, I saved the storyboard, ensuring that the image and background color matched the overall design of the application.'
 
 # Question Bot 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366 
 
-This code is for an iOS application that provides users with a straightforward conversational experience. The core of the application is the ViewController class, which serves as the primary view controller.
+Certainly, here's the explanation in continuous text format, translated into English:
 
-When users open the app, the viewDidLoad() method is automatically called, initiating the activation of the questionField text input, enabling users to start typing their questions right away.
+This code is for an iOS application that provides users with a straightforward conversational experience. The core of the application is the `ViewController` class, which serves as the primary view controller.
 
-Subsequently, when a user types a question and taps the "Ask" button, the askButtonTapped(_:) method is invoked. This method checks if the text input is not empty, and, if it isn't, it hides the keyboard using questionField.resignFirstResponder(), allowing the code to proceed.
+When users open the app, the `viewDidLoad()` method is automatically called, initiating the activation of the `questionField` text input, enabling users to start typing their questions right away.
 
-The user's input question is sent to the respondToQuestion(_:) method, which leverages an instance of MyQuestionAnswerer to produce a response. The response engine, MyQuestionAnswerer, implements conditional response rules: if the question begins with certain keywords such as "hello there," "where should I go on holiday," "where can I find the North Pole," or "where are the cookies," it returns specific responses. If the question doesn't match these patterns, it performs a more generalized analysis. If the question's length is an odd number of characters, it responds with a default message indicating the complexity of the question. When the question's length is even, it provides another default response indicating that the answer is unknown.
+Subsequently, when a user types a question and taps the "Ask" button, the `askButtonTapped(_:)` method is invoked. This method checks if the text input is not empty, and, if it isn't, it hides the keyboard using `questionField.resignFirstResponder()`, allowing the code to proceed.
 
-The generated response from MyQuestionAnswerer is displayed on the responseLabel user interface element, delivering the answer to the user. The "Ask" button is temporarily disabled to prevent repeated questions, and the placeholder text in questionField changes to encourage the user to ask another question.
+The user's input question is sent to the `respondToQuestion(_:)` method, which leverages an instance of `MyQuestionAnswerer` to produce a response. The response engine, `MyQuestionAnswerer`, implements conditional response rules: if the question begins with certain keywords such as "hello there," "where should I go on holiday," "where can I find the North Pole," or "where are the cookies," it returns specific responses. If the question doesn't match these patterns, it performs a more generalized analysis. If the question's length is an odd number of characters, it responds with a default message indicating the complexity of the question. When the question's length is even, it provides another default response indicating that the answer is unknown.
 
-Additionally, the extension of ViewController conforms to UITextFieldDelegate to manage events related to the text input. It handles actions like hiding the keyboard when the "Return" key is pressed and dynamically enabling or disabling the "Ask" button based on whether there is text in the input field. This enhances the usability and user interaction.
+The generated response from `MyQuestionAnswerer` is displayed on the `responseLabel` user interface element, delivering the answer to the user. The "Ask" button is temporarily disabled to prevent repeated questions, and the placeholder text in `questionField` changes to encourage the user to ask another question.
 
-In summary, this code creates a simple conversational interface where users can pose questions and receive responses using a custom response engine. The user interface responds effectively to user interactions, and the underlying logic is encapsulated within the MyQuestionAnswerer structure.
+Additionally, the extension of `ViewController` conforms to `UITextFieldDelegate` to manage events related to the text input. It handles actions like hiding the keyboard when the "Return" key is pressed and dynamically enabling or disabling the "Ask" button based on whether there is text in the input field. This enhances the usability and user interaction.
+
+In summary, this code creates a simple conversational interface where users can pose questions and receive responses using a custom response engine. The user interface responds effectively to user interactions, and the underlying logic is encapsulated within the `MyQuestionAnswerer` structure.
 
 # Bouncy Balll 
 
