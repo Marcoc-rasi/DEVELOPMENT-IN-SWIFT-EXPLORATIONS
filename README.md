@@ -134,4 +134,16 @@ In summary, this code is part of a meme creation application that enables users 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d09975cb-aa62-43b0-bca0-33f6202fef71 
 
+This code is an implementation of an **iOS application** that allows you to study **chemical elements** using flashcards and take a **quiz** to assess your knowledge. The `ViewController` class is the central piece of the application, handling both the **logic** and the **user interface**.
+
+The application enables users to switch between two **study modes** represented by the `Mode` enum: **flashcard** and **quiz**. It also keeps track of the current state, defined by the `State` enum, which can be **question**, **answer**, or **score**.
+
+Various **button actions** are used to interact with the application, including `showAnswer(_:)` to reveal the answer in flashcard mode, `next(_:)` to move to the next element or display the score in quiz mode, and `switchModes(_:)` to toggle between the two modes.
+
+The **user interface** is updated based on the current state and mode. For instance, in **flashcard mode**, the interface displays an image of the chemical element and allows the user to show the answer, while in **quiz mode**, a text field is provided for the user to respond, and it shows whether the answer is correct or incorrect. In quiz mode, it keeps track of correct answers and displays the score at the end.
+
+Furthermore, the code handles user input through the `textFieldShouldReturn(_:)` function, which checks if the entered response is correct and updates the interface accordingly. When the user finishes the quiz, an alert displaying the score is shown.
+
+In summary, this code is a **chemical element study application** that offers two study modes (flashcard and quiz) and provides an interactive user interface to help the user learn and evaluate their knowledge. The application logic and user interface are comprehensively managed, and the code includes functions to set up new study sessions based on the user's chosen mode.
+
 
