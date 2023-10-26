@@ -6,15 +6,11 @@ I started by exploring the fundamental concepts of programming in Swift and unde
  
  ![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
 
-Mis disculpas por la confusión. Aquí está el texto con comillas simples en lugar de comillas dobles:
-
 I added an image to my storyboard by dragging an `Image View` and assigning the desired image in the attributes panel. It's important to note that images should be added to the `Assets.xcassets` folder in the project first. To change the background color of the view, I selected the main view and adjusted the `Background` or `Background Color` property in the attributes panel. Then, I verified that the elements were correctly positioned with appropriate constraints. Finally, I saved the storyboard, ensuring that the image and background color matched the overall design of the application.'
 
 # Question Bot 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366 
-
-Certainly, here's the explanation in continuous text format, translated into English:
 
 This code is for an iOS application that provides users with a straightforward conversational experience. The core of the application is the `ViewController` class, which serves as the primary view controller.
 
@@ -89,6 +85,20 @@ In summary, this code creates an application that simulates a conversation with 
 # RPS 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/44fa0ae4-a052-4d73-96f2-6a5232dbf77a 
+
+The code snippet you've shared is the implementation of a **"Rock, Paper, Scissors"** game application in Swift, using the UIKit user interface for iOS. This application consists of three main parts: the `GameState.swift` file, the `Sign.swift` file, and the `ViewController.swift` file.
+
+**GameState.swift** defines an enumeration named `GameState`, representing the possible states of the game. These states are **"Start"** (beginning), **"Victory"** (win), **"Lose"** (loss), and **"Tie"** (draw). Each state has a `stateDescription` property that provides a human-readable description.
+
+**Sign.swift** contains the definition of the `Sign` enumeration, representing the three game options: **"Scissors,"** **"Rock,"** and **"Paper."** Each option has a corresponding **emoji** and a `gameResult` method that determines the game's outcome based on the player's and opponent's choices.
+
+In **ViewController.swift**, you'll find the `ViewController` class, which handles the application's user interface. Interface elements such as labels and buttons are connected to properties within the class. The `viewDidLoad` function initializes the user interface when the view loads, and button event-handling methods allow the player to make their choice and restart the game.
+
+The `updateUI` function updates the user interface based on the game's state, changing the background color and showing/hiding buttons as necessary. Additionally, it displays the current game state and the opponent's emoji.
+
+The `play` method represents the game logic. It takes the player's choice, generates a random choice for the opponent, and calculates the game's result using the `gameResult` method. Then, it updates the user interface with the result and displays the opponent's emoji. Finally, it disables the player's choice buttons and shows the "Play Again" button to allow the player to restart the game.
+
+Collectively, this code provides a complete gaming experience for "Rock, Paper, Scissors" on an iOS application, with visual representations of the choices, status messages, and functionality for playing and restarting. The application uses emojis and background colors to enhance the gaming experience.
 
 # Meme Maker 
 
