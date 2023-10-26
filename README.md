@@ -74,6 +74,18 @@ In summary, this code controls a view that allows users to customize color mixin
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d28a5e25-d0c9-45f2-9705-69ad25d417ae 
 
+In the provided code, there is an iOS application that simulates a **conversation** between the user and a **bot**. The functionality is broken down into several key classes and structures:
+
+The **`ConversationDataSource` class** manages the conversation data. This class provides methods to add both **questions** and **answers** to the conversation. The number of messages in the conversation is obtained through the **`messageCount`** property, and messages are stored in an array called **`messages`**. The primary purpose of this class is to provide a data source for the conversation.
+
+The **`ConversationDelegate` class** is used to generate **responses to questions**. The **`responseTo`** function takes a question as input and returns a response based on the content of the question. Predefined responses are included for certain question patterns.
+
+The **`ConversationViewController` class** acts as the main view controller. It uses instances of `ConversationDelegate` and `ConversationDataSource` to manage the conversation. When the user enters a question, the **`respondToQuestion`** function is triggered. This function handles the logic of adding questions and answers to the conversation, with a "thinking" period before providing a response. The **ThinkingCell** is used to visually indicate that the application is "thinking."
+
+Additionally, there is a **`Message` structure** set up to represent messages in the conversation. Each message has a date, text, and type (question or answer). An initial **welcome message** named **`openingLine`** is provided.
+
+In summary, this code creates an application that simulates a conversation with a bot. Messages are managed through interconnected classes and structures, and predefined responses are included for certain question patterns. The application visualizes the "thinking" process while generating responses to user questions.
+
 # RPS 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/44fa0ae4-a052-4d73-96f2-6a5232dbf77a 
