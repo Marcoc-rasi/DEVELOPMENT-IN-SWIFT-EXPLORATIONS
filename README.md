@@ -104,7 +104,34 @@ Collectively, this code provides a complete gaming experience for "Rock, Paper, 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/5ffceadf-a957-408e-9454-634410170566 
 
+The code begins by importing the UIKit module, which provides the necessary classes and functions for developing iOS applications.
+
+Next, it defines the class `ViewController`, which inherits from `UIViewController`. This inheritance signifies that this class will act as a view controller in the application's view hierarchy.
+
+Within the class, several UI properties and objects are created, which are connected to UI elements in the corresponding view interface file, likely a .xib or .storyboard file. These elements include:
+
+- `topSegmentedControl` and `bottomSegmentedControl`: Two `UISegmentedControl` objects that allow the user to select options for the top and bottom portions of a meme.
+
+- `topCaptionLabel` and `bottomCaptionLabel`: Two `UILabel` objects that will display the meme captions at the top and bottom of the meme image.
+
+Two arrays, `topChoices` and `bottomChoices, are defined to store instances of the `CaptionOption` structure. Each array contains options for meme captions along with related emojis.
+
+The `viewDidLoad()` method is responsible for configuring the UI elements and setting the initial text of the UILabel elements based on the selection made in the `UISegmentedControl`. It also performs the following actions:
+
+- Removes previous segments in the segmented controls using `removeAllSegments()`.
+
+- Then, it inserts new segments into the controls using the information stored in the `topChoices` and `bottomChoices` arrays.
+
+The `segmentedControlValueChanged(_:)` method is triggered when the user changes the selection in one of the segmented controls. Depending on whether the top or bottom segmented control sends the action, `changeLabelChoice` is called to update the corresponding caption.
+
+The `dragTopLabel(_:)` and `dragBottomLabel(_:)` methods allow dragging the top and bottom caption labels when the user performs a dragging gesture.
+
+The `changeLabelChoice(segmentedControl:label:choices:)` method updates the text of the corresponding label with the selected caption from the segmented control.
+
+In summary, this code is part of a meme creation application that enables users to select emojis and captions for the top and bottom parts of an image and view the resulting meme.
+
 # Element Quiz 
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d09975cb-aa62-43b0-bca0-33f6202fef71 
+
 
