@@ -25,6 +25,9 @@ En las aplicaciones de iOS, una lista de elementos que se desplaza se conoce com
 
 
 # ChatBot
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/f88a799b-14e2-463e-8bb1-6e0f30b85b4c
+
 El código proporcionado forma parte de una aplicación iOS que simula una **conversación** entre el usuario y un **bot**. Aquí tienes un desglose de las clases y estructuras clave:
 
 1. **Clase `ConversationDataSource`:**
