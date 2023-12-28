@@ -28,7 +28,10 @@ The game you're building is Rock, Paper, Scissors. If you haven’t heard of the
 If both players choose the same sign, the game is a draw.
 
 In the game you’ll build, your opponent will be the app itself, so you won’t need to count to three. To play the game, you’ll tap one of the three signs: Rock, Paper, or Scissors (first image).
-The app will randomly choose a responding sign and show the results (second image).
+The app will randomly choose a responding sign and show the results (image below).
+
+<img width="404" alt="RPS reference image" src="https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/052e9f2f-cf64-49eb-a98a-232998353917">
+
 
 In the game you’ll build, your opponent will be the app itself, so you won’t need to count to three. To play the game, you’ll tap one of the three signs: Rock, Paper, or Scissors (first image).
 The app will randomly choose a responding sign and show the results (second image).
@@ -39,7 +42,7 @@ You’ll build the game logic (the model) first, followed by the UI (the view). 
 
 # RPS 
 
-
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/bcf07328-54f1-41cd-959a-8f9aa17466e3
 
 Implementation of a **"Rock, Paper, Scissors"** game application in Swift, using the UIKit user interface for iOS. This application consists of three main parts: the `GameState.swift` file, the `Sign.swift` file, and the `ViewController.swift` file.
 
