@@ -1,12 +1,14 @@
 # MemeMaker
 ## Introduction
-You’re going to build an app that lets you add fun captions to a photo. This is another opportunity to practice the Xcode and Swift skills you've learned throughout this course. The final app will look something like this”
+You’re going to build an app that lets you add fun captions to a photo. This is another opportunity to practice the Xcode and Swift skills you've learned throughout this course. The final app will look something like this
+
+<img width="366" alt="MemeMaker reference image" src="https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/c549e72b-4c81-4171-a025-bc651d87f122">
 
 Selecting any one of the emoji will change the text above and below its image, so you can mix and match statements to suit your mood.
 
 # MemeMaker 
 
-
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/e5bb9a16-5875-413e-84e3-dadd0fe9d78f
 
 The code begins by importing the UIKit module, which provides the necessary classes and functions for developing iOS applications.
 
