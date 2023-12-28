@@ -18,7 +18,7 @@ A game where players try to hit targets with a bouncing ball.
 Until now, you've built simple applications with minimal code. In this lesson, you'll face the challenge of building a game that uses physics and touch interaction. It will look something like this:
 
 In this lesson, you'll follow a common software development strategy called incremental development. You'll build the BouncyBall app in stages, each ending in a functional application. You'll run and test your code at each step, gradually increasing its capabilities.
-You might think you could watch the game in the video and build the app all at once. But think again. It will be much easier to build the game step by step, increasing its complexity in manageable steps. Along the way, you can assess your
+You might think you could watch the game in the video and build the app all at once. But think again. It will be much easier to build the game step by step, increasing its complexity in manageable steps. Along the way, you can evaluate your code and make adjustments when necessary. And you can test after each step to make sure the game behaves as it should. Incremental development is a key technique that application developers use to manage their work.
 
 # Bouncy Balll 
 
