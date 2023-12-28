@@ -34,6 +34,8 @@ Tu proyecto consistirá en utilizar outlets y actions para crear una aplicación
 
 # Color Mix
 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/88deed20-1e8a-46f2-8577-1b1320802663
+
 Aplicación iOS que permite a los usuarios mezclar colores ajustando interruptores y deslizadores. Este controlador se utiliza para gestionar la vista de la aplicación y la interacción con los elementos de la interfaz de usuario.
 
 La clase **ViewController** hereda de `UIViewController`, la clase base para controladores de vista en iOS. En esta clase, se declaran propiedades para varios elementos de la interfaz de usuario, como una `UIView` llamada `colorView`, tres `UISwitches` (redSwitch, greenSwitch, blueSwitch) y tres `UISliders` (redSlider, greenSlider, blueSlider).
