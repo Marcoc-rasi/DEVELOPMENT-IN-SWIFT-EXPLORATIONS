@@ -25,3 +25,5 @@ Al final de esta lección, tu aplicación se verá así, pero mostrará una foto
 # PhotoFrame
 
 ![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
+
+Agregué una imagen a mi guión gráfico arrastrando una "Vista de imagen" y asignando la imagen deseada en el panel de atributos. Es importante tener en cuenta que las imágenes deben agregarse primero a la carpeta `Assets.xcassets` del proyecto. Para cambiar el color de fondo de la vista, seleccioné la vista principal y ajusté la propiedad "Fondo" o "Color de fondo" en el panel de atributos. Luego, verifiqué que los elementos estuvieran colocados correctamente con las restricciones adecuadas. Finalmente, guardé el guión gráfico, asegurándome de que la imagen y el color de fondo coincidieran con el diseño general de la aplicación.
