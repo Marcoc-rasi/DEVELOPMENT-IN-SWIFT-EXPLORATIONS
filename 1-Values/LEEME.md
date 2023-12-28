@@ -8,4 +8,4 @@ Considerarás cómo las innovaciones informáticas han cambiado la vida de las p
 
 # APP DESTACADA
 
-![1-PhotoFrame-Marcocrasi](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/8b12dc6a-2168-4ea0-9922-45f54fa9897e)
+![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
