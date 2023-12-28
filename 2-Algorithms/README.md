@@ -1,1 +1,4 @@
-h
+# Algorithms
+In this unit, you’ll learn how to analyze a problem and create an algorithm to solve it. You’ll express your algorithms in plain English, in pseudocode, and in code. You’ll learn how to use functions to create reusable chunks of code, and how to incorporate decision-making into your programs using if/else statements. You’ll be introduced to types as a way of distinguishing different types of data.
+You’ll apply your skills in playgrounds to create a dancing BoogieBot and a data visualizer. Next, you’ll build the brain of a QuestionBot app that responds to user input from the keyboard.
+You’ll continue to explore bias in technology design and analyze how bias might enter at all levels of software development. You’ll explore how to design excellent user experiences by going beyond the app interface to analyze the app's core purpose, the data it manages, and its users' goals. You’ll start designing the user experience for your app idea, including key functionality and screens. And you’ll create a storyboard to show how users will move through your app, testing your ideas with feedback from others.
