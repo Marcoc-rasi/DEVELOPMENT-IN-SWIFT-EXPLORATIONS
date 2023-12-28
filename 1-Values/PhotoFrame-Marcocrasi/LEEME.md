@@ -22,3 +22,6 @@ En esta lección de cuatro partes, construirás PhotoFrame, una sencilla aplicac
 En la tercera parte, agregarás una imagen a tu proyecto. Finalmente, crearás la interfaz de usuario utilizando Interface Builder, un componente poderoso de Xcode que tiene un storyboard para diseñar las pantallas de tu aplicación, una biblioteca de objetos de interfaz de usuario y muchos controles y configuraciones para personalizarlos.
 Al final de esta lección, tu aplicación se verá así, pero mostrará una foto de tu elección.
 
+# PhotoFrame
+
+![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
