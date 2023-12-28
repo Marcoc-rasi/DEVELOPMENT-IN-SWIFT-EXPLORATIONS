@@ -33,7 +33,7 @@ Your project will be to use outlets and actions to create an app that generates 
 
 # Color Mix 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/6d9c5c93-ab29-480f-91d2-ec0a7ffd84fb 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/88deed20-1e8a-46f2-8577-1b1320802663
 
 iOS application that allows users to mix colors by adjusting **switches** and **sliders**. This controller is used to manage the application's view and the interaction with user interface elements.
 
