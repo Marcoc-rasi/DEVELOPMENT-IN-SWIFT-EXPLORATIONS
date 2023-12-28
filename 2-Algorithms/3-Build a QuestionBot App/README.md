@@ -1,3 +1,23 @@
+# Building a QuestionBot Application
+
+## What You Will Build
+The "brain" of a chat application that responds differently to different questions.
+
+## What You Will Learn
+How to take an idea you've coded in a playground and implement it in a real application.
+How to make your application do different things in different situations.
+
+## Key Vocabulary
+- `Case`: A keyword used in Swift programming to define different options in an enumeration.
+- `Default`: A keyword used in `switch` statements to provide a default case when specified conditions are not met.
+
+## Introduction
+In Building a Photo Frame App, you created an Xcode project from scratch. In this lesson, you'll add important functionalities to an app that is already in progress.
+Many apps are built by teams of people working together: designers who think about the app's look and how it's used, and developers who write the code to make it happen. Often, different parts of an app can be worked on at the same time.
+In this lesson, you are part of a team building a chat application called QuestionBot. Focusing only on one part of the app, your job is to work on the "brain" of QuestionBot, the part that decides how to respond to questions. Other parts of the app, the design, the user interface, the parts that take the question and display the answer, are already completed.
+At the moment, the app doesn't respond to questions meaningfully. You'll build knowledge for the bot and a personality to go with it; you'll give the app behavior unique to your design.
+
+
 # Question Bot 
 
 [https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/8364a4b0-af08-484d-9c37-4449f83b787e) 

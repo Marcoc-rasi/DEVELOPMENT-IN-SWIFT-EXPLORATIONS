@@ -1,3 +1,22 @@
+# Construir una aplicación QuestionBot
+
+## Lo que Construirás
+El "cerebro" de una aplicación de chat que responde de manera diferente a diferentes preguntas.
+
+## Lo que Aprenderás
+Cómo llevar una idea que has codificado en un playground y ponerla en práctica en una aplicación real.
+Cómo hacer que tu aplicación haga cosas diferentes en diferentes situaciones.
+
+## Vocabulario Clave
+- `Case`: Una palabra clave utilizada en la programación Swift para definir las diferentes opciones en una enumeración.
+- `Default`: Una palabra clave que se utiliza en las instrucciones `switch` para proporcionar un caso predeterminado cuando no se cumplen las condiciones especificadas.
+
+## Introducción
+En Construir una aplicación de marco de fotos, creaste un proyecto Xcode desde cero. En esta lección, agregarás funcionalidades importantes a una aplicación que ya está en progreso.
+Muchas aplicaciones son construidas por equipos de personas que trabajan juntas: diseñadores que piensan en la apariencia de la aplicación y en cómo se usa, y desarrolladores que escriben el código para que suceda. A menudo, diferentes partes de una aplicación se pueden trabajar al mismo tiempo.
+En esta lección, eres parte de un equipo que está construyendo una aplicación de chat llamada QuestionBot. Centrándote solo en una parte de la aplicación, tu trabajo es trabajar en el "cerebro" de QuestionBot, la parte que decide cómo responder a las preguntas. Otras partes de la aplicación, el diseño, la interfaz de usuario, las partes que toman la pregunta y muestran la respuesta, ya están completadas.
+En este momento, la aplicación no responde preguntas de manera significativa. Construirás conocimiento para el bot y una personalidad para acompañarlo; darás a la aplicación un comportamiento único de tu propio diseño.
+
 # Question Bot
 
 [https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/8364a4b0-af08-484d-9c37-4449f83b787e)
