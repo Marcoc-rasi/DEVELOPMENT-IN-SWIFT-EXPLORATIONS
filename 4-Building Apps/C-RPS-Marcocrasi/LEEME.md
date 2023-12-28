@@ -28,7 +28,9 @@ El juego que estás construyendo es Piedra, Papel o Tijeras. Si no has oído hab
 Si ambos jugadores eligen el mismo gesto, el juego es un empate.
 
 En el juego que construirás, la aplicación misma será tu oponente, por lo que no necesitarás contar hasta tres. Para jugar, tocarás uno de los tres gestos: Piedra, Papel o Tijeras (primera imagen).
-La aplicación elegirá aleatoriamente un gesto en respuesta y mostrará los resultados (segunda imagen).
+La aplicación elegirá aleatoriamente un gesto en respuesta y mostrará los resultados (imagen debajo).
+
+<img width="404" alt="RPS reference image" src="https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/9494eee4-e72d-4cc0-bea4-3b899126b348">
 
 En el juego que construirás, la aplicación misma será tu oponente, por lo que no necesitarás contar hasta tres. Para jugar, tocarás uno de los tres gestos: Piedra, Papel o Tijeras (primera imagen).
 La aplicación elegirá aleatoriamente un gesto en respuesta y mostrará los resultados (segunda imagen).
@@ -38,6 +40,8 @@ Recuerda que ya has visto el valor de la separación entre diferentes componente
 Primero construirás la lógica del juego (el modelo), seguido por la interfaz de usuario (la vista). Luego, unirás ambas partes con el controlador. A estas alturas, ya has aprendido todo lo que necesitas para construir la aplicación por ti mismo. Así que no recibirás una guía paso a paso, solo un esquema de lo que debes hacer para que el juego funcione.
 
 # RPS
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/0b603672-08f1-4c97-adea-3b0266f44cd7
 
 Implementación de una aplicación de juego **"Piedra, Papel o Tijeras"** en Swift, utilizando la interfaz de usuario UIKit para iOS. Esta aplicación consta de tres partes principales: el archivo `GameState.swift`, el archivo `Sign.swift` y el archivo `ViewController.swift`.
 
