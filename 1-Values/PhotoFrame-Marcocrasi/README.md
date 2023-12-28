@@ -21,3 +21,7 @@ In this four-part lesson, you'll build PhotoFrame, a simple iOS app that display
 
 In the third part, you'll add an image to your project. Finally, you'll create the user interface using Interface Builder, a powerful component of Xcode that features a storyboard for designing your app's screens, a library of UI objects, and many controls and settings for customizing them.
 By the end of this lesson, your app will look like this, but it will display a photo of your choice.
+
+# PhotoFrame
+
+![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
