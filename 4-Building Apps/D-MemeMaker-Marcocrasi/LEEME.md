@@ -1,10 +1,15 @@
 # MemeMaker
 ## Introducción
-Vas a crear una aplicación que te permitirá agregar títulos divertidos a una foto. Esta es otra oportunidad para practicar las habilidades de Xcode y Swift que ha aprendido a lo largo de este curso. La aplicación final se verá así”
+Vas a crear una aplicación que te permitirá agregar títulos divertidos a una foto. Esta es otra oportunidad para practicar las habilidades de Xcode y Swift que ha aprendido a lo largo de este curso. La aplicación final se verá así
+
+<img width="366" alt="MemeMaker reference image" src="https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/4eab56fe-cfdf-4e09-a5c9-b1bcb191066a">
 
 Al seleccionar cualquiera de los emoji, se cambiará el texto encima y debajo de su imagen, para que puedas mezclar y combinar declaraciones que se adapten a tu estado de ánimo.
 
 # MemeMaker 
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/fe9cb6eb-a4d5-4fc5-90d5-07bb9d803dcc
+
 El código comienza importando el módulo UIKit, que proporciona las clases y funciones necesarias para desarrollar aplicaciones iOS.
 
 A continuación, define la clase `ViewController`, que hereda de `UIViewController`. Esta herencia significa que esta clase actuará como un controlador de vista en la jerarquía de vistas de la aplicación.
