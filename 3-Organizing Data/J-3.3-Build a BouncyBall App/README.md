@@ -22,7 +22,7 @@ You might think you could watch the game in the video and build the app all at o
 
 # Bouncy Balll 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d5b67d65-4425-4ced-8d7e-4dfea45fcc05
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/de140c55-d2ff-4bd7-a552-60ecd508ffd0
 
 The code is contained within a class named `ViewController`, responsible for managing the interface and presentation of the game. This class defines essential properties such as `shapeScene`, `container`, and `sceneView`. The `shapeScene` property stores an instance of `ShapeScene`, representing the game scene in SpriteKit. `container` is a view that acts as a container to display the game scene view (`sceneView`). Additionally, the computed property `presentationContext` is used to handle the presentation of **alerts** in the application.
 
