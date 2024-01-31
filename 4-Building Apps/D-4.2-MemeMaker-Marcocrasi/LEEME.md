@@ -8,7 +8,7 @@ Al seleccionar cualquiera de los emoji, se cambiará el texto encima y debajo de
 
 # MemeMaker 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/fe9cb6eb-a4d5-4fc5-90d5-07bb9d803dcc
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/aabeea93-a129-44cd-b633-e22cc7eaaa15
 
 El código comienza importando el módulo UIKit, que proporciona las clases y funciones necesarias para desarrollar aplicaciones iOS.
 
