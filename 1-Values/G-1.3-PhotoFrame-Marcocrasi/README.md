@@ -24,6 +24,6 @@ By the end of this lesson, your app will look like this, but it will display a p
 
 # PhotoFrame
 
-![1-PhotoFrame-Marcocrasi (2)](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1de4e7c5-7f70-48a1-af8b-6a5fcc8edd89)
+!![G-1 3-PhotoFrame-Marcocrasi](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/571d05e7-1d13-4cc5-b0b7-f14241473204)
 
 I added an image to my storyboard by dragging an `Image View` and assigning the desired image in the attributes panel. It's important to note that images should be added to the `Assets.xcassets` folder in the project first. To change the background color of the view, I selected the main view and adjusted the `Background` or `Background Color` property in the attributes panel. Then, I verified that the elements were correctly positioned with appropriate constraints. Finally, I saved the storyboard, ensuring that the image and background color matched the overall design of the application.
