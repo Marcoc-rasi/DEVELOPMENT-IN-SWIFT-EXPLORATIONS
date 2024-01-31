@@ -1,10 +1,9 @@
-# DEVELOPMENT-WITH-SWIFT-EXPLORATIONS
+# `DEVELOPMENT-WITH-SWIFT-EXPLORATIONS`
 
 I started by exploring the fundamental concepts of programming in Swift and understood the impact that apps have on society and culture. The study units were divided into four parts: values, algorithms, data organization, and app building. In the first unit, I gained knowledge about how values, such as text and numbers, flow through my code and how to assign names to them using variables. In the second unit, I delved into code structure, learning to use functions to automate repetitive tasks and make decisions with if/else statements. The third unit focused on data organization, where I learned to create custom types with structures, group data into arrays, and process it with loops. Additionally, I explored how enumerations represent related sets of values. The culmination of this stage was creating an interactive game with colorful shapes. Finally, in the fourth unit, I solidified my app-building skills from scratch using Xcode and Interface Builder. I learned to design user interfaces, connect elements to my code, and respond to user interactions. 
 
 
-
-# FEATURED APPS
+# `FEATURED APPS`
 
 # `Unit 3 - Data Organization`
 
@@ -14,9 +13,9 @@ I started by exploring the fundamental concepts of programming in Swift and unde
 
 This iOS game app involves a ball bouncing within a shape, navigating obstacles to win. The controller handles setting up the game scene, managing alerts, and on-screen presentation.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/02b742e3-36aa-4a6e-ab43-6a31183cbecf
-
 **Location Path**: `3-Organizing Data/J-Build a BouncyBall App`
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/02b742e3-36aa-4a6e-ab43-6a31183cbecf
 
 # `Unit 4 - How to Create Apps`
 
@@ -26,9 +25,9 @@ https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/510391
 
 The app controls a view that allows users to customize color mixing by adjusting switches and sliders, and provides a reset function to revert to the initial settings.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/49e75334-638c-440e-a10a-898a1f8f9edf
-
 **Location Path**: `4-Building Apps/A-ColorMix-Marcocrasi`
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/49e75334-638c-440e-a10a-898a1f8f9edf
 
 ### `B-ChatBot`
 
@@ -51,7 +50,7 @@ https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/510391
 
 A meme-making application that allows users to select emojis and captions for the top and bottom parts of an image and view the resulting meme.
 
-**Location Path**: 4-Building Apps/D-MemeMaker-Marcocrasi`
+**Location Path**: `4-Building Apps/D-MemeMaker-Marcocrasi`
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d85cd16d-6b43-4f85-bbc4-7f4392c941dc
 
