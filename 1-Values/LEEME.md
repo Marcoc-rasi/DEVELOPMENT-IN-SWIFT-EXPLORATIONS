@@ -32,3 +32,5 @@ Utiliza tu conocimiento de valores, constantes y cadenas para crear y jugar jueg
 ## `G-PhotoFrame-Marcocrasi`
 
 Agregué una imagen a mi guión gráfico arrastrando una "Vista de imagen" y asignando la imagen deseada en el panel de atributos. Es importante tener en cuenta que las imágenes deben agregarse primero a la carpeta Assets.xcassets del proyecto. Para cambiar el color de fondo de la vista, seleccioné la vista principal y ajusté la propiedad "Fondo" o "Color de fondo" en el panel de atributos.
+
+![G-1 3-PhotoFrame-Marcocrasi](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/571d05e7-1d13-4cc5-b0b7-f14241473204)
