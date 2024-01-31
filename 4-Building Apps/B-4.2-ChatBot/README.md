@@ -23,7 +23,7 @@ In iOS apps, a scrolling list of items is known as a table view. Each item in th
 
 # Chat Bot 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/f88a799b-14e2-463e-8bb1-6e0f30b85b4c
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/e57a1b4a-f750-4069-b360-039108e795f8
 
 In the provided code, there is an iOS application that simulates a **conversation** between the user and a **bot**. The functionality is broken down into several key classes and structures:
 
