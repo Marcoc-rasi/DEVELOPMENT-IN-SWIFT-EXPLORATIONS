@@ -56,3 +56,4 @@ Aprenderá sobre las innovaciones informáticas que han tenido consecuencias no 
 
 Esta App de juego para iOS donde una pelota debe rebotar en una forma y atravesar obstáculos para ganar. El controlador se encarga de configurar la escena del juego, gestionar las alertas y la presentación en pantalla.
 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/de140c55-d2ff-4bd7-a552-60ecd508ffd0
