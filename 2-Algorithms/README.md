@@ -29,4 +29,6 @@ Build a program to visualize data using pie charts, bar graphs, and scatter plot
 
 The app creates a simple conversational interface where users can ask questions and receive answers using a custom response engine.
 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/66a9d60c-7185-4c98-ac0f-9c32843bcaa7
+
 
