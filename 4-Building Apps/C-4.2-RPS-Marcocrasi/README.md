@@ -42,7 +42,7 @@ You’ll build the game logic (the model) first, followed by the UI (the view). 
 
 # RPS 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/bcf07328-54f1-41cd-959a-8f9aa17466e3
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/418e3c06-d07b-4f57-a8a7-030946f1bede
 
 Implementation of a **"Rock, Paper, Scissors"** game application in Swift, using the UIKit user interface for iOS. This application consists of three main parts: the `GameState.swift` file, the `Sign.swift` file, and the `ViewController.swift` file.
 
