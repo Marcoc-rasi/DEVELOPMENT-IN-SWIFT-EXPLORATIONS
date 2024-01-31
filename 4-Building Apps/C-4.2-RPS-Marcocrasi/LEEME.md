@@ -41,7 +41,7 @@ Primero construirás la lógica del juego (el modelo), seguido por la interfaz d
 
 # RPS
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/0b603672-08f1-4c97-adea-3b0266f44cd7
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/418e3c06-d07b-4f57-a8a7-030946f1bede
 
 Implementación de una aplicación de juego **"Piedra, Papel o Tijeras"** en Swift, utilizando la interfaz de usuario UIKit para iOS. Esta aplicación consta de tres partes principales: el archivo `GameState.swift`, el archivo `Sign.swift` y el archivo `ViewController.swift`.
 
