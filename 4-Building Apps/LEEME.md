@@ -1,31 +1,33 @@
-# Creación de aplicaciones
+# `Unidad 4 - Cómo Crear Apps`
 
-En esta unidad, profundizará sus habilidades en Xcode e Interface Builder a través de proyectos guiados, donde aprenderá a crear una aplicación desde cero. Los proyectos lo guiarán para agregar elementos de interfaz de usuario, conectarlos al código y manejar eventos de interacción del usuario. Se enfatizará el desarrollo incremental, lo que le permitirá expandir las capacidades de su aplicación gradualmente y probarla en cada fase.
+## `Lección 4.2 - Jugar Con los Componentes De La App`
 
-# Experimente con la creación de aplicaciones
+### `A-ColorMix-Marcocrasi` 
 
-## A. Selector de color
-- Crea una aplicación con interruptores y controles deslizantes para mezclar colores.
+La App controla una vista que permite a los usuarios personalizar la mezcla de colores ajustando interruptores y deslizadores, y proporciona una función de reinicio para volver a la configuración inicial.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/eee74e7d-cb39-45b7-8f0d-c1c32c47d1d3
 
-## B. ChatBot
-- Crear una aplicación que pueda tener conversaciones.
-  
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/8d88cbca-06ee-42d1-b19e-191f348ef2d7
 
-## C. Piedra, papel o tijera
-- Crea un juego con botones y emoji.
+### `B-ChatBot` 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/6d1d6864-225f-434a-97e3-5869c9337996
+Esta App simula una conversación con un bot. Los mensajes se gestionan a través de clases y estructuras interconectadas, y se incluyen respuestas predefinidas para ciertos patrones de preguntas. La aplicación visualiza el proceso de "pensamiento" mientras genera respuestas a las preguntas del usuario.
 
-## Aplique creativamente su pensamiento
-### D. MemeMaker
-- Crea una aplicación para crear memes con imágenes y texto.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/3dc0a6c4-2e67-49ab-86f7-72e00d7fb4cb
-   
-### Aplicación ElementQuiz:
-    - Cree una aplicación con tarjeta flash y modos de prueba puntuados.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/40037f0a-aede-4f61-ac2b-f79426677cb4
+### `C-RPS-Marcocrasi` 
+
+ Esta aplicación de iOS proporciona una experiencia completa de juego para "Piedra, Papel o Tijeras" , con representaciones visuales de las opciones, mensajes de estado y funcionalidad para jugar y reiniciar. La aplicación utiliza emojis y colores de fondo para mejorar la experiencia de juego.
+
+
+
+### `D-MemeMaker-Marcocrasi` 
+
+Una aplicación creadora de memes que permite a los usuarios seleccionar emojis y leyendas para las partes superior e inferior de una imagen y ver el meme resultante.
+
+
+
+## `Lección 4.3 - Crear Una App ElementQuiz`
+
+### `E-Build an ElementQuiz App` 
+
+Esta código es una aplicación de estudio de elementos químicos que ofrece dos modos de estudio (tarjeta de memoria y cuestionario) y proporciona una interfaz de usuario interactiva para ayudar al usuario a aprender y evaluar sus conocimientos. La lógica de la aplicación y la interfaz de usuario están gestionadas de manera integral, y el código incluye funciones para configurar nuevas sesiones de estudio según el modo elegido por el usuario.

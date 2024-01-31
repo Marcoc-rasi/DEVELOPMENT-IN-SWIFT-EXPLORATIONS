@@ -1,33 +1,25 @@
-# Building Apps
+# `Unit 4 - How to Create Apps`
 
-In this unit, you will deepen your skills in Xcode and Interface Builder through guided projects, where you'll learn to build an app from the ground up. The projects will guide you in adding user interface elements, connecting them to code, and handling user interaction events. Incremental development will be emphasized, allowing you to expand your app's capabilities gradually and test it at each phase.
+## `Lesson 4.2 - Play with App Components`
 
-# Experiment with Building Apps
+### `A-ColorMix-Marcocrasi`
 
-## A. Color Picker
-- Build an app with switches and sliders to mix colors.
+The app controls a view that allows users to customize color mixing by adjusting switches and sliders, and provides a reset function to revert to the initial settings.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/eee74e7d-cb39-45b7-8f0d-c1c32c47d1d3
+### `B-ChatBot`
 
-## B. ChatBot
-- Build an app that can have conversations.
-  
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/8d88cbca-06ee-42d1-b19e-191f348ef2d7
+This app simulates a conversation with a bot. Messages are managed through interconnected classes and structures, with predefined responses for certain question patterns. The application visualizes the "thinking" process while generating responses to user questions.
 
-## C. Rock, Paper, Scissors
-- Build a game with buttons and emoji.
+### `C-RPS-Marcocrasi`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/6d1d6864-225f-434a-97e3-5869c9337996
+This iOS application provides a complete gaming experience for "Rock, Paper, Scissors," with visual representations of options, status messages, and functionality for playing and restarting. The app uses emojis and background colors to enhance the gaming experience.
 
-## Creatively Apply Your Thinking
-### D. MemeMaker
-- Build an app for creating memes with images and text.
+### `D-MemeMaker-Marcocrasi`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/3dc0a6c4-2e67-49ab-86f7-72e00d7fb4cb
-   
-### ElementQuiz App:
-   - Build an app with flash card and scored quiz modes.
+A meme-making application that allows users to select emojis and captions for the top and bottom parts of an image and view the resulting meme.
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/40037f0a-aede-4f61-ac2b-f79426677cb4
+## `Lesson 4.3 - Create an ElementQuiz App`
 
+### `E-Build an ElementQuiz App`
 
+This code is a chemical element study app that offers two study modes (flashcard and quiz) and provides an interactive user interface to help the user learn and assess their knowledge. The app's logic and user interface are managed comprehensively, and the code includes functions to set up new study sessions based on the user's chosen mode.
