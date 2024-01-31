@@ -34,7 +34,7 @@ Tu proyecto consistirá en utilizar outlets y actions para crear una aplicación
 
 # Color Mix
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/88deed20-1e8a-46f2-8577-1b1320802663
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/11b9d5c1-db74-4a37-9234-61b37cec1aba
 
 Aplicación iOS que permite a los usuarios mezclar colores ajustando interruptores y deslizadores. Este controlador se utiliza para gestionar la vista de la aplicación y la interacción con los elementos de la interfaz de usuario.
 
