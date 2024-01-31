@@ -20,7 +20,7 @@ Comenzarás con una interfaz estilo tarjeta de memoria. El usuario verá el sím
 
 # Element Quiz
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/964e828a-1119-4944-b24e-542f6c7807cc
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/f2907220-a572-42e1-bec1-3071861b0453
 
 Este código es una implementación de una **aplicación iOS** que te permite estudiar los **elementos químicos** utilizando tarjetas de memoria y realizar un **cuestionario** para evaluar tus conocimientos. La clase `ViewController` es la pieza central de la aplicación, encargándose tanto de la **lógica** como de la **interfaz de usuario**.
 
