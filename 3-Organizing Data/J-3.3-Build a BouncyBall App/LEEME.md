@@ -22,7 +22,7 @@ Puede que pienses que podrías mirar el juego en el video y construir la aplicac
 
 # Pelota saltarina
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/d5b67d65-4425-4ced-8d7e-4dfea45fcc05
+[https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/d5b67d65-4425-4ced-8d7e-4dfea45fcc05](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/de140c55-d2ff-4bd7-a552-60ecd508ffd0)
 
 El código está contenido dentro de una clase llamada `ViewController`, responsable de gestionar la interfaz y la presentación del juego. Esta clase define propiedades esenciales como `shapeScene`, `container` y `sceneView`. La propiedad `shapeScene` almacena una instancia de `ShapeScene`, que representa la escena del juego en SpriteKit. `container` es una vista que actúa como contenedor para mostrar la vista de la escena del juego (`sceneView`). Además, la propiedad calculada `presentationContext` se utiliza para controlar la presentación de **alertas** en la aplicación.
 
