@@ -4,41 +4,64 @@ Comencé explorando los conceptos fundamentales de la programación en Swift y c
 
 
 
-
 # APLICACIONES DESTACADAS
 
-## Pelota saltarina
+# `Unidad 3 - Organización de Datos`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/1038bbf2-6117-497c-95f8-08af5af829c1
+## `Lección 3.3 - Compilar Ana App BuncyBall
+
+## ` J-Build a BouncyBall App`
+
+Esta App de juego para iOS donde una pelota debe rebotar en una forma y atravesar obstáculos para ganar. El controlador se encarga de configurar la escena del juego, gestionar las alertas y la presentación en pantalla.
 
 **Ruta de ubicación**: `3-Organizar datos/J-Crear una aplicación BouncyBall`
 
-## Mezcla de colores
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/02b742e3-36aa-4a6e-ab43-6a31183cbecf
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/10344bdd-2649-4c7c-82ce-5221b6bf4693
+# `Unidad 4 - Cómo Crear Apps`
+
+## `Lección 4.2 - Jugar Con los Componentes De La App`
+
+### `A-ColorMix-Marcocrasi` 
+
+La App controla una vista que permite a los usuarios personalizar la mezcla de colores ajustando interruptores y deslizadores, y proporciona una función de reinicio para volver a la configuración inicial.
 
 **Ruta de ubicación**: `4-Building Apps/A-ColorMix-Marcocrasi`
 
-## Bot de chat
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/49e75334-638c-440e-a10a-898a1f8f9edf
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/7acde73e-cc83-48f1-ab02-791f81fbf73a
+### `B-ChatBot` 
+
+Esta App simula una conversación con un bot. Los mensajes se gestionan a través de clases y estructuras interconectadas, y se incluyen respuestas predefinidas para ciertos patrones de preguntas. La aplicación visualiza el proceso de "pensamiento" mientras genera respuestas a las preguntas del usuario.
 
 **Ruta de ubicación**: `4-Creación de aplicaciones/B-ChatBot`
 
-##RPS
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/425456ac-9354-4620-a86b-970082475bc9
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/c9e5fe92-2743-4072-898d-e560610d8f3a
+### `C-RPS-Marcocrasi` 
+
+ Esta aplicación de iOS proporciona una experiencia completa de juego para "Piedra, Papel o Tijeras" , con representaciones visuales de las opciones, mensajes de estado y funcionalidad para jugar y reiniciar. La aplicación utiliza emojis y colores de fondo para mejorar la experiencia de juego.
 
 **Ruta de ubicación**: `4-Building Apps/C-RPS-Marcocrasi`
 
-## Creador de Meme
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/976a0a18-a412-49ac-83f6-7d49e92512de
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/b152ad04-f0ac-4a93-869b-cdce8fbf17d0
+### `D-MemeMaker-Marcocrasi` 
+
+Una aplicación creadora de memes que permite a los usuarios seleccionar emojis y leyendas para las partes superior e inferior de una imagen y ver el meme resultante.
+
 
 **Ruta de ubicación**: `4-Building Apps/D-MemeMaker-Marcocrasi`
 
-## Prueba de elementos
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d85cd16d-6b43-4f85-bbc4-7f4392c941dc
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATION/assets/51039101/1093c879-7077-43d6-a75b-c3839a8a486f
+## `Lección 4.3 - Crear Una App ElementQuiz`
+
+### `E-Build an ElementQuiz App` 
+
+Esta código es una aplicación de estudio de elementos químicos que ofrece dos modos de estudio (tarjeta de memoria y cuestionario) y proporciona una interfaz de usuario interactiva para ayudar al usuario a aprender y evaluar sus conocimientos. La lógica de la aplicación y la interfaz de usuario están gestionadas de manera integral, y el código incluye funciones para configurar nuevas sesiones de estudio según el modo elegido por el usuario.
+
 
 **Ruta de ubicación**: `4-Creación de aplicaciones/Creación electrónica de una aplicación ElementQuiz`
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/84b77fe0-0818-4988-963f-37074a71130f
