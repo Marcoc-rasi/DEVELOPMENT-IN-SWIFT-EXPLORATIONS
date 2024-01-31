@@ -6,45 +6,58 @@ I started by exploring the fundamental concepts of programming in Swift and unde
 
 # FEATURED APPS
 
-## Bouncy Balll 
+# `Unit 3 - Data Organization`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1038bbf2-6117-497c-95f8-08af5af829c1
+## `Lesson 3.3 - Build a BouncyBall App`
+
+## `J-Build a BouncyBall App`
+
+This iOS game app involves a ball bouncing within a shape, navigating obstacles to win. The controller handles setting up the game scene, managing alerts, and on-screen presentation.
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/02b742e3-36aa-4a6e-ab43-6a31183cbecf
 
 **Location Path**: `3-Organizing Data/J-Build a BouncyBall App`
 
-## Color Mix 
+# `Unit 4 - How to Create Apps`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/10344bdd-2649-4c7c-82ce-5221b6bf4693
+## `Lesson 4.2 - Play with App Components`
+
+### `A-ColorMix-Marcocrasi`
+
+The app controls a view that allows users to customize color mixing by adjusting switches and sliders, and provides a reset function to revert to the initial settings.
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/49e75334-638c-440e-a10a-898a1f8f9edf
 
 **Location Path**: `4-Building Apps/A-ColorMix-Marcocrasi`
 
-## Chat Bot 
+### `B-ChatBot`
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/7acde73e-cc83-48f1-ab02-791f81fbf73a
+This app simulates a conversation with a bot. Messages are managed through interconnected classes and structures, with predefined responses for certain question patterns. The application visualizes the "thinking" process while generating responses to user questions.
 
 **Location Path**: `4-Building Apps/B-ChatBot`
 
-## RPS 
-
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/c9e5fe92-2743-4072-898d-e560610d8f3a
-
-**Location Path**: `4-Building Apps/C-RPS-Marcocrasi`
-
-## Meme Maker 
-
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/b152ad04-f0ac-4a93-869b-cdce8fbf17d0
-
-**Location Path**: `4-Building Apps/D-MemeMaker-Marcocrasi`
-
-## Element Quiz 
-
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/1093c879-7077-43d6-a75b-c3839a8a486f
-
-**Location Path**: `4-Building Apps/E-Build an ElementQuiz App`
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/425456ac-9354-4620-a86b-970082475bc9
 
 
+### `C-RPS-Marcocrasi`
 
+This iOS application provides a complete gaming experience for "Rock, Paper, Scissors," with visual representations of options, status messages, and functionality for playing and restarting. The app uses emojis and background colors to enhance the gaming experience.
 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/976a0a18-a412-49ac-83f6-7d49e92512de
+
+### `D-MemeMaker-Marcocrasi`
+
+A meme-making application that allows users to select emojis and captions for the top and bottom parts of an image and view the resulting meme.
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d85cd16d-6b43-4f85-bbc4-7f4392c941dc
+
+## `Lesson 4.3 - Create an ElementQuiz App`
+
+### `E-Build an ElementQuiz App`
+
+This code is a chemical element study app that offers two study modes (flashcard and quiz) and provides an interactive user interface to help the user learn and assess their knowledge. The app's logic and user interface are managed comprehensively, and the code includes functions to set up new study sessions based on the user's chosen mode.
+
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/84b77fe0-0818-4988-963f-37074a71130f
 
 
 
