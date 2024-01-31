@@ -21,7 +21,7 @@ You'll start with a flash card–style interface. The user will see the element 
 
 # Element Quiz 
 
-https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/662a4cb1-13af-42cf-a07a-b0d82e7c43c3
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/f2907220-a572-42e1-bec1-3071861b0453
 
 This code is an implementation of an **iOS application** that allows you to study **chemical elements** using flashcards and take a **quiz** to assess your knowledge. The `ViewController` class is the central piece of the application, handling both the **logic** and the **user interface**.
 
