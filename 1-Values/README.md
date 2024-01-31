@@ -29,4 +29,5 @@ Use your knowledge of values, constants, and strings to create and play word gam
 
 I added an image to my storyboard by dragging an "Image View" and assigning the desired image in the attributes panel. It's important to note that images must be added first to the Assets.xcassets folder in the project. To change the background color of the view, I selected the main view and adjusted the "Background" or "Background Color" property in the attributes panel.
 
+![G-1 3-PhotoFrame-Marcocrasi](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/571d05e7-1d13-4cc5-b0b7-f14241473204)
 
