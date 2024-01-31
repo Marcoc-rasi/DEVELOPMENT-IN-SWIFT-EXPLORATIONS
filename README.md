@@ -39,15 +39,19 @@ This app simulates a conversation with a bot. Messages are managed through inter
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/425456ac-9354-4620-a86b-970082475bc9
 
 
-### `C-RPS-Marcocrasi`
+### `C-RPS-Marcocrasi`: 
 
 This iOS application provides a complete gaming experience for "Rock, Paper, Scissors," with visual representations of options, status messages, and functionality for playing and restarting. The app uses emojis and background colors to enhance the gaming experience.
+
+**Location Path**: `4-Building Apps/C-RPS-Marcocrasi`
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/976a0a18-a412-49ac-83f6-7d49e92512de
 
 ### `D-MemeMaker-Marcocrasi`
 
 A meme-making application that allows users to select emojis and captions for the top and bottom parts of an image and view the resulting meme.
+
+**Location Path**: 4-Building Apps/D-MemeMaker-Marcocrasi`
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/d85cd16d-6b43-4f85-bbc4-7f4392c941dc
 
@@ -56,6 +60,8 @@ https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/510391
 ### `E-Build an ElementQuiz App`
 
 This code is a chemical element study app that offers two study modes (flashcard and quiz) and provides an interactive user interface to help the user learn and assess their knowledge. The app's logic and user interface are managed comprehensively, and the code includes functions to set up new study sessions based on the user's chosen mode.
+
+**Location Path**: `4-Creación de aplicaciones/Creación electrónica de una aplicación ElementQuiz`
 
 https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/84b77fe0-0818-4988-963f-37074a71130f
 
