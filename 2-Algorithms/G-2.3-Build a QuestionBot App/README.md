@@ -20,7 +20,7 @@ At the moment, the app doesn't respond to questions meaningfully. You'll build k
 
 # Question Bot 
 
-[https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/946eacda-93fe-4e79-b84f-649e17c83366](https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/8364a4b0-af08-484d-9c37-4449f83b787e) 
+https://github.com/Marcoc-rasi/DEVELOPMENT-WITH-SWIFT-EXPLORATIONS/assets/51039101/66a9d60c-7185-4c98-ac0f-9c32843bcaa7 
 
 This code is for an iOS application that provides users with a straightforward conversational experience. The core of the application is the `ViewController` class, which serves as the primary view controller.
 
